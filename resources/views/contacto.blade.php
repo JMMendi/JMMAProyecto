@@ -2,4 +2,4 @@
 
 <!-- Aquí otro cambio -->
  
-<!-- Hacemos modificaciones -->
+<!-- Hacemos conflictos -->
