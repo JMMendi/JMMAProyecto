@@ -1,3 +1,3 @@
 <!-- Hemos creado la vista contacto -->
 
-<!-- Hacemos modificaciones -->
+<!-- Hacemos conflicto por parte de Angel -->
